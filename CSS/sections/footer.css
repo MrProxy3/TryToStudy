@@ -1,0 +1,15 @@
+.footer {
+  background: #414141; }
+
+.social__link {
+  width: 31px;
+  height: 31px; }
+
+.social__link_fb {
+  background: url("/images/icons/fb.png") 0 0 no-repeat; }
+
+.social__link_vk {
+  background: url("/images/icons/vk.png") 0 0 no-repeat; }
+
+.social__link_twitter {
+  background: url("/images/icons/twitter.png") 0 0 no-repeat; }
