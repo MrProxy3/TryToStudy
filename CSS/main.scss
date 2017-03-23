@@ -1,12 +1,13 @@
 // vars
 $white: #f6f6f6;
 $blue: #33c1e3;
+$black: #414141;
 
 // layout
 @import "_misc/fonts";
 @import "_misc/mixins.scss";
-@import "_misc/adjustment";
 @import "_misc/normalize";
+@import "_misc/adjustment";
 @import "plugins/font-awesome.scss";
 
 
